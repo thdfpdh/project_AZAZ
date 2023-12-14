@@ -13,7 +13,11 @@
 	  height: 156px;
 	  opacity: 0;
 	}
-  }.ldio-w0gnquxj63i div {
+  }
+
+
+ 
+  .ldio-w0gnquxj63i div {
 	position: absolute;
 	border-width: 4px;
 	border-style: solid;
@@ -49,14 +53,19 @@
   .popup-size{
 	height: 750px;
 	width: 750px;
-	margin : 100px auto;
+	margin : 0px;
 	/* background-color: #011315; */
 }
   .center-box{
-	width: 50px;
-	height: 50px;
+	width: 300px;
+	height: 300px;
 	position: absolute;
-	top: 43%;
-	left: 46%;
-	margin: -25px 0 0 -25px;
+	top: 36%;
+	left: 36%;
+	margin: 0;
+  }
+
+
+  *{
+	overflow: hidden;
   }
